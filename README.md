@@ -13,6 +13,7 @@
 - [Aditya Pandit](./team-members/apandit.md)
 - [Avneesh Kumar](./team-members/akumar.md)
 - [Cody Howard](./team-members/choward-taos.md)
+- [Mukesh Sharma](./team-members/msharma-taos.md)
 
 # Github Pages:
 https://taosdevops.github.io/dev-ops-now-bios/
