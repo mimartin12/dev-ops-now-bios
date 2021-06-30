@@ -5,7 +5,6 @@
 - [Chakshu Tandon](./team-members/ctandon.md)
 - [Lee Kaufman](./team-members/lkaufmantaos.md)
 - [Lindsey Stanton](./team-members/lstanton-taos.md)
-- [Matt Martinez](./team-members/matt-taos.md)
 - [Micaiah Martin](./team-members/mmartin-taos.md)
 - [Pamela Lagos](./team-members/plagos-taos.md)
 - [Taylor Morgan](./team-members/tmorgan-taos.md)
