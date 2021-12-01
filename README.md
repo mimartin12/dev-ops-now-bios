@@ -15,5 +15,6 @@
 - [Pamela Lagos](./team-members/plagos-taos.md)
 - [Taylor Morgan](./team-members/tmorgan-taos.md)
 - [Victor Secarin](./team-members/vsecarintaos.md)
+- [Lionel Nfada](./team-members/lnfada.md)
 # Github Pages:
 https://taosdevops.github.io/dev-ops-now-bios/
